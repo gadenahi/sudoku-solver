@@ -1,7 +1,7 @@
 **freeCodeCamp** - Quality Assurance 4: Sudoku Solver
 ------
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-sudoku-solver)](https://repl.it/github/freeCodeCamp/boilerplate-project-sudoku-solver)
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-sudoku-solver)](https://reasonablewobblyfolders--five-nine.repl.co/)
 
 ### User stories:
 
